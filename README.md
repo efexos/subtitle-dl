@@ -18,9 +18,9 @@
    - Install the cli app.
 
       `$ python setup.py install`
-   
-   >  <<<< OR >>>>
-
+      
+      > OR
+      
       `$ pip install .`
 
 ### See the screenshots below for running the script.
