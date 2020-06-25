@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/efexos-subtitle--dl-brightgreen)
-![](https://img.shields.io/badge/version-1.0.1-purple)
+![](https://img.shields.io/badge/version-1.0.0-purple)
 
 ![](https://img.shields.io/badge/-Python-blueviolet)
 
