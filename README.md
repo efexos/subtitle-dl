@@ -17,11 +17,11 @@
 
    - Install the cli app.
 
-      `$ python setup.py install`
+      `$ pip install .` (suggested)
       
       > OR
       
-      `$ pip install .`
+      `$ python setup.py install` (try avoiding this, for devs.)
 
 ### See the screenshots below for running the script.
 
