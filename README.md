@@ -26,8 +26,10 @@
 ### See the screenshots below for running the script.
 
 ## Screenshots
-![alt text](https://github.com/efexos/subtitle-dl/blob/master/screenshots/sc_1.png?raw=true)
-![alt text](https://github.com/efexos/subtitle-dl/blob/master/screenshots/sc_2.png?raw=true)
+![no options auto](https://github.com/efexos/subtitle-dl/blob/master/screenshots/sc_1.png?raw=true)
+![verbose option](https://github.com/efexos/subtitle-dl/blob/master/screenshots/sc_2.png?raw=true)
+![manual option](https://github.com/efexos/subtitle-dl/blob/master/screenshots/sc_3.png?raw=true)
+![manual option](https://github.com/efexos/subtitle-dl/blob/master/screenshots/sc_4.png?raw=true)
 
 ### Regards
    > efexos
